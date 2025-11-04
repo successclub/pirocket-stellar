@@ -2,18 +2,20 @@
 
 ## Abstract
 
-PIROCKET is a community-driven meme coin built on the Stellar Mainnet, designed to provide fast, low-cost transactions while fostering an engaged community. Leveraging Stellar's efficient blockchain technology, PIROCKET aims to create a fun and accessible cryptocurrency experience. **Most importantly, PIROCKET is positioned as a future-proof cryptocurrency that prepares for the era of quantum computing, ensuring long-term security and protection against potential quantum computer hacking attempts.**
+PIROCKET is a community-driven meme coin built on the Stellar Mainnet, designed to provide fast, low-cost transactions while fostering an engaged community. **PIROCKET is a Web3 native cryptocurrency**, representing the transition from Web2 (centralized internet) to Web3 (decentralized, blockchain-based internet). Leveraging Stellar's efficient blockchain technology, PIROCKET aims to create a fun and accessible cryptocurrency experience as part of the next-generation internet. **Most importantly, PIROCKET is positioned as a future-proof cryptocurrency that prepares for the era of quantum computing, ensuring long-term security and protection against potential quantum computer hacking attempts.**
 
 ## 1. Introduction
 
 ### 1.1 Vision
 
-PIROCKET envisions a decentralized future where meme coins can thrive on an environmentally friendly and efficient blockchain. By utilizing Stellar's proven technology, PIROCKET offers users a fast, reliable, and cost-effective way to participate in the cryptocurrency ecosystem. **As quantum computing advances, PIROCKET is committed to staying ahead of the curve by preparing for quantum-resistant security measures, ensuring that our community's assets remain secure in the face of future technological threats.**
+PIROCKET envisions a decentralized future where meme coins can thrive on an environmentally friendly and efficient blockchain. **As a Web3 native cryptocurrency, PIROCKET is part of the revolutionary transition from Web2 to Web3**—the blockchain-powered next generation of the internet where users have true ownership and control of their digital assets. By utilizing Stellar's proven technology, PIROCKET offers users a fast, reliable, and cost-effective way to participate in the Web3 ecosystem. **As quantum computing advances, PIROCKET is committed to staying ahead of the curve by preparing for quantum-resistant security measures, ensuring that our community's assets remain secure in the face of future technological threats.**
 
 ### 1.2 Mission
 
 Our mission is to:
+- **Be a Web3 native cryptocurrency, part of the blockchain-based next-generation internet**
 - Create an accessible meme coin on Stellar Mainnet
+- **Promote the transition from Web2 to Web3 by demonstrating the power of decentralized, blockchain-based digital assets**
 - Build a vibrant and engaged community
 - Provide fast and low-cost transactions
 - Foster innovation in the Stellar ecosystem
@@ -21,7 +23,17 @@ Our mission is to:
 
 ## 2. Technology
 
-### 2.1 Stellar Network
+### 2.1 Web3 & Blockchain Foundation
+
+**PIROCKET is a Web3 native cryptocurrency**, built on blockchain technology that represents the next generation of the internet:
+
+- **Web3 Native**: PIROCKET operates on a decentralized, blockchain-based network—the core of Web3 technology
+- **True Ownership**: Unlike Web2 platforms where data is controlled by centralized entities, Web3 gives users true ownership of their digital assets
+- **Decentralization**: No central authority controls the PIROCKET network; it operates on the decentralized Stellar blockchain
+- **Transparency**: All transactions are recorded on the public blockchain, ensuring full transparency and immutability
+- **Borderless**: Web3 knows no borders—PIROCKET can be sent and received anywhere in the world, 24/7
+
+### 2.2 Stellar Network
 
 PIROCKET is built on Stellar Mainnet, which offers:
 - **Fast Transactions**: Settlement in 3-5 seconds
@@ -131,7 +143,27 @@ As a Stellar native asset, PIROCKET does not require smart contracts, reducing a
 
 All transactions are publicly visible on the Stellar blockchain, ensuring full transparency.
 
-### 6.4 Quantum Computing Preparedness
+### 6.4 Web3 & Blockchain Security
+
+**Web3 Security Advantages**
+
+As a Web3 native cryptocurrency, PIROCKET benefits from blockchain technology's inherent security features:
+
+- **Decentralization**: No single point of failure—the network is distributed across multiple nodes
+- **Immutability**: Once recorded on the blockchain, transactions cannot be altered or deleted
+- **Transparency**: All transactions are publicly verifiable on the blockchain
+- **User Control**: Users control their private keys and digital assets, not a centralized platform
+- **Censorship Resistance**: The decentralized nature of blockchain makes it resistant to censorship
+
+**The Web2 to Web3 Transition**
+
+The transition from Web2 to Web3 represents a fundamental shift in how we interact with the internet:
+
+- **Web2**: Centralized platforms control user data and digital assets
+- **Web3**: Users have true ownership and control through blockchain technology
+- **PIROCKET**: Part of this revolutionary change, built on blockchain to be a true Web3 asset
+
+### 6.5 Quantum Computing Preparedness
 
 **The Quantum Threat**
 
@@ -218,7 +250,7 @@ Token holders are responsible for their own tax obligations related to PIROCKET 
 
 ## 10. Conclusion
 
-PIROCKET represents a community-driven approach to meme coins on the Stellar network. With fast transactions, low fees, and a focus on community engagement, PIROCKET aims to create value through fun and accessibility. **Most importantly, PIROCKET is positioned as a future-proof cryptocurrency that prepares for the quantum computing era, ensuring that our community's assets remain secure against potential quantum computer hacking attempts. As quantum computing technology advances, PIROCKET will be ready with quantum-resistant security measures, making it a safe choice for long-term holders who value both innovation and security.**
+PIROCKET represents a community-driven approach to meme coins on the Stellar network. **As a Web3 native cryptocurrency, PIROCKET is part of the revolutionary transition from Web2 to Web3**—the blockchain-powered next generation of the internet. With fast transactions, low fees, and a focus on community engagement, PIROCKET aims to create value through fun and accessibility while demonstrating the power of decentralized, blockchain-based digital assets. **Most importantly, PIROCKET is positioned as a future-proof cryptocurrency that prepares for the quantum computing era, ensuring that our community's assets remain secure against potential quantum computer hacking attempts. As quantum computing technology advances, PIROCKET will be ready with quantum-resistant security measures, making it a safe choice for long-term holders who value both innovation and security.**
 
 ## 11. References
 

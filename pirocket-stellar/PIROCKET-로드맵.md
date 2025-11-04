@@ -4,7 +4,7 @@
 
 This roadmap outlines the planned development and growth trajectory for PIROCKET. The roadmap is flexible and may be adjusted based on community feedback and market conditions.
 
-**Key Focus**: PIROCKET is committed to preparing for the quantum computing era, ensuring long-term security and protection against potential quantum computer hacking attempts. This commitment to quantum-resistant security is integrated throughout our development roadmap.
+**Key Focus**: **PIROCKET is a Web3 native cryptocurrency**, built on blockchain technology as part of the transition from Web2 to Web3—the decentralized, blockchain-powered next generation of the internet. PIROCKET is committed to preparing for the quantum computing era, ensuring long-term security and protection against potential quantum computer hacking attempts. This commitment to Web3 innovation and quantum-resistant security is integrated throughout our development roadmap.
 
 ## Phase 1: Foundation & Launch ✅ (Q1 2025)
 
@@ -129,11 +129,13 @@ This roadmap outlines the planned development and growth trajectory for PIROCKET
 ## Long-term Vision (2026+)
 
 ### Potential Developments
+- **Web3 Ecosystem Expansion**: Continue to lead the Web2 to Web3 transition, demonstrating the power of blockchain-based digital assets
 - Cross-chain integration
 - Advanced DeFi features
 - Community-driven initiatives
 - Ecosystem expansion
 - Innovation in meme coin utility
+- **Web3 Education & Adoption**: Promote Web3 awareness and help users understand the benefits of decentralized, blockchain-based technologies
 
 ### Quantum Computing Era Preparedness
 - **Full Quantum-Resistant Migration**: Complete transition to quantum-resistant cryptographic algorithms as they become standardized
@@ -142,9 +144,11 @@ This roadmap outlines the planned development and growth trajectory for PIROCKET
 - **Industry Leadership**: Position PIROCKET as a leader in quantum-resistant cryptocurrency security
 - **Community Protection**: Ensure all PIROCKET holders' assets remain secure against quantum computing attacks
 
-**Why Quantum Preparedness Matters**
+**Why Web3 & Quantum Preparedness Matter**
 
-As quantum computing technology advances, cryptocurrencies that fail to prepare may become vulnerable to quantum attacks. PIROCKET is committed to being at the forefront of quantum-resistant security, ensuring that our community's assets remain protected long into the future. This commitment to security makes PIROCKET a safe choice for investors who value both innovation and long-term asset protection.
+**Web3 represents the future of the internet**—a decentralized, blockchain-based ecosystem where users have true ownership and control. PIROCKET is at the forefront of this transition, built as a Web3 native cryptocurrency on the blockchain.
+
+As quantum computing technology advances, cryptocurrencies that fail to prepare may become vulnerable to quantum attacks. PIROCKET is committed to being at the forefront of both Web3 innovation and quantum-resistant security, ensuring that our community's assets remain protected long into the future. This commitment to Web3 principles and security makes PIROCKET a safe choice for investors who value both innovation and long-term asset protection in the next-generation internet.
 
 ## Success Metrics
 
